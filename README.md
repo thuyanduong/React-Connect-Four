@@ -1,3 +1,9 @@
+# Demo of the Full App
+
+https://react-connect-four-ann-duong.herokuapp.com/
+
+# About
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
