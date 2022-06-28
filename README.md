@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Demo of the Full App 
+
+https://react-connect-four-ann-duong.herokuapp.com/
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
