@@ -1,5 +1,3 @@
-import React from 'react'
-
 const Button = ({gameOver, resetGame}) => {
   const areYouSure = () => {
     if(window.confirm("Are you sure you want to restart the current game? This will clear the board.")){

@@ -1,5 +1,3 @@
-import React from 'react'
-
 const EndGameModal = ({open, onClose, winner, resetGame}) => {
   const displayWinner = () => {
     switch (winner) {

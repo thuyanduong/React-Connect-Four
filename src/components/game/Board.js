@@ -1,4 +1,3 @@
-import React from 'react'
 import {generateRow} from './Game'
 
 const Board = ({playerBoard, handleHover, hoverColumn, currentPlayer, handleTurn}) => {

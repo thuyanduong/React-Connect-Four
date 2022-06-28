@@ -1,5 +1,3 @@
-import React from 'react'
-
 const InstructionsModal = ({open, onClose}) => {
   return (
     <div className="modal" style={{display: open ? "block" : "none"}}

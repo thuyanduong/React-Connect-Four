@@ -1,4 +1,3 @@
-import React from 'react'
 import Drop from './Drop'
 import Board from './Board'
 

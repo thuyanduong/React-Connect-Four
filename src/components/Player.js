@@ -1,5 +1,3 @@
-import React from 'react'
-
 const Player = ({currentPlayer, gameOver}) => {
   return (
     <div className="four column centered row">

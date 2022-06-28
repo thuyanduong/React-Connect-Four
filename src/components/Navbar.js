@@ -1,5 +1,3 @@
-import React from 'react'
-
 const Navbar = ({toggleInstructions}) => {
   return (
     <div className="ui inverted menu">

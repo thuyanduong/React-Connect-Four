@@ -1,4 +1,3 @@
-import React from 'react'
 import {generateRow} from './Game'
 
 const Drop = ({handleHover, hoverColumn, currentPlayer, handleTurn}) => {

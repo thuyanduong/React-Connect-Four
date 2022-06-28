@@ -1,5 +1,3 @@
-import React from 'react'
-
 const Score = ({player1Score, player2Score}) => {
   return (
     <div className="three column row">
