@@ -1,4 +1,4 @@
-# Demo of the Full App  
+# Demo of the Full App   
 
 https://react-connect-four-ann-duong.herokuapp.com/
 
